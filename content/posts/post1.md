@@ -1,4 +1,6 @@
 ---
 title: 1
-tags: abc
+tags:
+  - asd
+  - fff
 ---
